@@ -1,0 +1,2 @@
+Table 7. Posted safety population counts
+Safety denominators differ from efficacy denominators. Surveillance windows are preserved in safety_summary.csv. AE counts are descriptive, not adjudicated drug-attributable harm or a cross-drug ranking.

@@ -1,0 +1,9 @@
+﻿Program,Observed source issue,Disposition
+ASPECT-cUTI,Historical companion ID resolves to the canonical record; pooled results; separate clinical/micro counts not posted.,Count pooled composite once; no joint reconstruction.
+RECAPTURE,Two canonical records repeat pooled results; patient-reported composite differs from investigator clinical cure.,Deduplicate; separate marginals only.
+TANGO-I,TOC composite exceeds posted microbial successes; mMITT title and ME wording conflict.,No feasible verified joint table; keep source outcomes separate.
+Zidebactam pivotal,Clinical endpoint description includes the microbiological requirement despite different reported counts.,Retain reported marginals; exclude strict joint analysis pending clarification.
+EPIC,Composite results posted without the separate matched clinical and microbial marginals.,Composite analysis only.
+SURE-2,Composite and microbial results posted; separate clinical result absent.,"Composite analysis retained, including unfavorable estimate."
+IGNITE-2 and IGNITE-3,Different or unavailable component denominators and outcome populations.,Composite analysis retained; no joint reconstruction.
+ALLIUM,No numerical registry results at the snapshot date.,FDA exact-count extension only.

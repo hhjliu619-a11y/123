@@ -1,0 +1,2 @@
+Table 1. Data sources and publication conditions
+Registry processing timestamp: 2026-10-13T09:00:06. The preserved snapshot is dated and must be refreshed before journal submission. No publication-repository patient dataset was used.

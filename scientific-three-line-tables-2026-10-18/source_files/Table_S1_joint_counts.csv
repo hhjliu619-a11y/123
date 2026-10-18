@@ -1,0 +1,16 @@
+study_id,program,tier,arm,n,both,clinical_only,micro_only,neither
+NCT02753946,ZEUS,Primary exact,exp,184,119,48,2,15
+NCT02753946,ZEUS,Primary exact,ctrl,178,97,66,3,12
+NCT03840148,CERTAIN-1,Primary exact,exp,293,207,44,22,20
+NCT03840148,CERTAIN-1,Primary exact,ctrl,143,83,33,12,15
+NCT03788967,ADAPT-PO,Primary exact,exp,449,264,154,3,28
+NCT03788967,ADAPT-PO,Primary exact,ctrl,419,258,134,8,19
+NCT06059846,PIVOT-PO,Primary exact,exp,446,261,156,8,21
+NCT06059846,PIVOT-PO,Primary exact,ctrl,483,291,169,5,18
+NCT05887908,INTEGRAL-1 cefepime/nacubactam,Primary exact,exp,214,176,19,8,11
+NCT05887908,INTEGRAL-1 cefepime/nacubactam,Primary exact,ctrl,105,64,28,3,10
+NCT05887908,INTEGRAL-1 aztreonam/nacubactam,Primary exact,exp,112,81,22,2,7
+NCT02321800,APEKS-cUTI,Phase 2 sensitivity,exp,252,183,43,1,25
+NCT02321800,APEKS-cUTI,Phase 2 sensitivity,ctrl,119,65,39,2,13
+NCT03687255,ALLIUM FDA extension,FDA extension,exp,345,273,46,13,13
+NCT03687255,ALLIUM FDA extension,FDA extension,ctrl,333,196,100,20,17

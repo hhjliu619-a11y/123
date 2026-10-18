@@ -1,0 +1,2 @@
+Table 4. Source compatibility and joint analysis exclusions
+An endpoint compatibility exclusion is not a declaration of treatment inefficacy, misconduct or source error. Each source remains available for inspection in the raw data package.

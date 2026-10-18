@@ -1,0 +1,2 @@
+Table 6. Exploratory program level synthesis and sensitivity
+REML with modified Hartung–Knapp intervals. Active nacubactam arms are combined before synthesis. The strict registry result is the primary evidence tier; extensions retain their designated sensitivity status.

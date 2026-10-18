@@ -1,0 +1,2 @@
+Table 5. Covariance aware paired endpoint contrasts
+D = microbiological treatment benefit minus clinical treatment benefit. Intervals use matched joint classifications. P values are exploratory and were not used for inclusion. BH adjustment covers six primary contrasts; shared-control dependence remains explicit.
